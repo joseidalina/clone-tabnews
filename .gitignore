@@ -15,4 +15,4 @@
 *.sublime-workspace
 
 node_modules 
-next
+.next
